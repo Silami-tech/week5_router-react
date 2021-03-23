@@ -1,0 +1,7 @@
+.row {
+  margin-top: 50px;
+  display: flex;
+}
+body{
+  background-color: rgb(124, 122, 122);
+}

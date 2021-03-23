@@ -1,0 +1,41 @@
+.itemDetail {
+  margin: 5px;
+  margin-left: 100px;
+}
+.imageDetail {
+  width: 800px;
+}
+.itemDetail {
+  width: 1100px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  padding: 25px;
+}
+
+.itemPriceDetail {
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.itemNameDetail {
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+button {
+  border-radius: 4px;
+  border: none;
+  font-size: 16px;
+  width: 97%;
+  height: 50px;
+  margin-bottom: 10px;
+  margin: 5px;
+  color: beige;
+  background-color: #9e0a0a;
+}
+.details {
+  text-align: center;
+}
